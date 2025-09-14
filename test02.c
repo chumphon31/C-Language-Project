@@ -8,8 +8,8 @@
 
 int main() {
     printf("Hello\n");
-    printf("%s BBBB %d ", "CCC" , 100);  // String = %s  Int = %d  Float = %f  fload  ละเอียดมาก  = %lf
-    printf("XYZ %f ^_^ %lf " , 150.45 , 158.44444444876 );
+    printf("BBBB %s %d ", "CCC" ,100);  // String = %s  Int = %d  Float = %f  fload  ละเอียดมาก  = %lf
+    printf("XYZ %.2f ^_^ %.2lf " , 150.45 , 158.44444444876 );
     printf("ABCD %c %s", 'B' , "");
 
 
